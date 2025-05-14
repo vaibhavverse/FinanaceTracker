@@ -1,0 +1,120 @@
+ *{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+ }
+ body{
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+ flex-direction: column;
+ border: 8px solid red;
+ border: none;
+
+  /* background-color: black; */
+ }
+ /* .header{
+  height: 10vh;
+  width: 100%;
+  background-color: #26358d;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+ }
+ .content{
+  border: 8px solid green;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  height: 90vh;
+  border: none;
+  background-color: rgba(128, 128, 128, 0.169);
+ }
+ .child{
+  border: 2px solid orange;
+  width: 50%;
+  padding: 2vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  border: none;
+ }
+ .inputDetails{
+  border: 2px solid white;
+  height: 40vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  border-radius: 9px;
+  padding: 8vh;
+  background-color:white;
+  margin-top: 50px;
+  gap: 2vh;
+ 
+box-shadow: 0 8px 30px rgba(0,0,0,0.2);
+ }
+
+ .details{
+  border: 1px solid white;
+  height: 20vh;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 10px;
+  background-color: white;
+  box-shadow: 0 8px 30px rgba(0,0,0,0.2);
+ 
+
+ }
+ .chart{
+  border: 1px solid black;
+  height: 100%;
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  border: none;
+  align-items:  center;
+ }
+ .inputDetails div{
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+ }
+ select{
+  padding: 1vh;
+  border-radius: 10px;
+
+ }
+button{
+  background-color: #4c63c0;
+  color: white;
+  padding: 2vh;
+  border-radius: 10px;
+  font-size: large;
+  font-weight: bold;
+  
+}
+input{
+  padding: 14px;
+  border-radius: 10px;
+}
+
+h1{
+  border: 2px solid black;
+}
+.chart h1{
+  text-align: center;
+  margin-top: 10px;
+  padding: 2vh;
+  border: none;
+}
+.chart div{
+  border: 2px solid white;
+  height: 50vh;
+ border-radius: 10px;
+ background-color: white;
+  width: 65%;
+  margin-top: 6vh;
+  margin-left: 2vh;
+  box-shadow: 0 8px 30px rgba(0,0,0,0.2);
+} */
